@@ -1,0 +1,12 @@
+127.0.0.1 - - [11/Sep/2017:17:01:02 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:01:38 +0530] "GET /EmployeeMgmt/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:01:39 +0530] "GET /EmployeeMgmt/welcome.jsp HTTP/1.1" 200 476
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:01:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:01:49 +0530] "GET /EmployeeMgmt/index.jsp HTTP/1.1" 200 889
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:12:13 +0530] "POST /EmployeeMgmt/login HTTP/1.1" 200 90
+0:0:0:0:0:0:0:1 - - [11/Sep/2017:17:12:16 +0530] "GET /EmployeeMgmt/index.jsp HTTP/1.1" 200 889
+127.0.0.1 - - [11/Sep/2017:18:09:15 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/Sep/2017:18:09:17 +0530] "GET /EmployeeMgmt/ HTTP/1.1" 302 -
+127.0.0.1 - - [11/Sep/2017:18:09:17 +0530] "GET /EmployeeMgmt/welcome.jsp HTTP/1.1" 200 476
+127.0.0.1 - - [11/Sep/2017:18:09:21 +0530] "GET /EmployeeMgmt/index.jsp HTTP/1.1" 200 889
+127.0.0.1 - - [11/Sep/2017:18:09:26 +0530] "GET /EmployeeMgmt/index.jsp HTTP/1.1" 200 889
